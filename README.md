@@ -22,8 +22,17 @@ Print("saya sedang belajar python")
 1. input nilai variabel a dan b. a=6 b=8 lalu input print("variabel a=".a) enter, dan Print("variabel b=",b) enter, dan print("hasil penjumlahan a+b=",a+b) enter, maka tampilan akan seperti dibawah ini(jika bingung ikutin saja di gambar
 ![penjumlahan](https://user-images.githubusercontent.com/116184002/198068923-31c02c6d-6320-48f3-b9b5-620c2c1d34ea.png)
 # Latihan 3
-• Menjalankan IDLE
-• Membuat file baru dengan nama latihan3.py (pastikan lokasi file
-pada folder lab2py pada direktori kerja anda)
-• Menggunakan fungsi input untuk mengambil nilai variabel dari
-keyboard.
+menjalankan IDLE
+. buat folder baru "latihan3" dan pastikan folder tersebut didalam direktory kalian 
+
+.buka menu windows lalu ketik "IDLE" lalu open
+
+. pilih menu file lalu pilih "New file"
+lalu masukkan kode dibawah ini
+![idle2](https://user-images.githubusercontent.com/116184002/198072220-c4fbd84e-c7c3-43d1-8be8-866d9181dde8.png)
+jika sudah lalu pilih menu RUN atau F5 
+masukkan variabel a=6 dan variabel b=8
+![run](https://user-images.githubusercontent.com/116184002/198072602-c3141167-d1f2-4886-99cd-2809040fb9bd.png)
+
+sekian terimakasih mohon maaf bila kurang jelas dikarenakan saya sudah ngantuk
+Wassalamu'alaikum Warormatullohi Wabarokatuhu
